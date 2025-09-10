@@ -46,7 +46,8 @@ The project showcases responsive web design techniques and highlights how a prem
 
 ## 📸 Screenshots  
 
-*(Add screenshots of your Navbar, Hero, and Footer here)*  
+<img width="1881" height="857" alt="image" src="https://github.com/user-attachments/assets/6f4461ec-9c68-4fcf-9d1d-4ab673f16708" />
+
 
 ---
 
@@ -55,6 +56,8 @@ The project showcases responsive web design techniques and highlights how a prem
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/zucini-website.git
+
+---
 
 ### Created By,
 Kausalya N P
