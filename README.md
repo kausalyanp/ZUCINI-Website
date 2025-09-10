@@ -29,7 +29,7 @@ The project showcases responsive web design techniques and highlights how a prem
 - Padding and spacing handled with Bootstrap utilities (`p-4`, `mb-4`, etc.).  
 
 ### 🔹 Footer Section  
-- Multi-column footer with links for **Shop, Company, Support**.  
+- Multi-column footer with links for **Shop, Support, Newsletter**.  
 - Uses `list-unstyled` and hover effects for cleaner UI.  
 - Social media icons (can be added using Font Awesome).  
 - Responsive design for all screen sizes.  
@@ -55,3 +55,6 @@ The project showcases responsive web design techniques and highlights how a prem
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/zucini-website.git
+
+### Created By,
+Kausalya N P
