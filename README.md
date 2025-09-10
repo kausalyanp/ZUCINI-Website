@@ -48,15 +48,16 @@ The project showcases responsive web design techniques and highlights how a prem
 
 <img width="1881" height="857" alt="image" src="https://github.com/user-attachments/assets/6f4461ec-9c68-4fcf-9d1d-4ab673f16708" />
 
+<img width="1873" height="834" alt="image" src="https://github.com/user-attachments/assets/10551b76-6c74-4f41-96f9-6bed9921f32c" />
 
 ---
 
 ## 🚀 How to Run  
 
 1. Clone this repository:  
-   ```bash
+   ```
    git clone https://github.com/yourusername/zucini-website.git
-
+   ```
 ---
 
 ### Created By,
