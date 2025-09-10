@@ -5,7 +5,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 Zucini is a modern **clothing brand website** built with **HTML, CSS, and Bootstrap**.  
-The project showcases responsive web design techniques and highlights how a premium fashion brand can present its identity online.  
+The project showcases responsive web design techniques and highlights how a premium fashion brand can present its identity online.
+
+---
+### Host the Website:
+[Go to the website](https://kausalyanp.github.io/ZUCINI-Website/)
 
 ---
 
